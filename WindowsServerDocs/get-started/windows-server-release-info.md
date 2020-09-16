@@ -23,7 +23,7 @@ Microsoft 已更新其維護模型。 半年度管道是每年兩次的功能更
 
 | Windows Server 版本 | 版本 | 作業系統組建 | 可用性 | 主要支援結束日期|延伸支援結束日期 |
 |----------------|---------|----------|----------|---------|----------|
-| Windows Server 版本 1909 (半年通道) (Datacenter Core、Standard Core) | 1909  | 18363.418.191007-0143 | 11/12/2019 | 2021/05/11 | 檢閱附註 |
+| Windows Server 版本 1909 (半年通道) (Datacenter Core、Standard Core) | 1909  | 18363.418.191007-0143 | 11/12/2019 | 11/05/2021 | 檢閱附註 |
 | Windows Server 版本 1903 (半年通道) (Datacenter Core、Standard Core) | 1903  | 18362.30.190401-1528 | 5/21/2019 | 12/08/2020 | 檢閱附註 |
 |Windows Server 2019 (長期維護通道) (Datacenter、 Essentials、Standard)|1809|17763.107.1010129-1455|11/13/2018|01/09/2024|01/09/2029|
 |Windows Server 版本 1809 (半年通道) (Datacenter Core、Standard Core)|1809|17763.107.1010129-1455|11/13/2018|11/10/2020|檢閱附註|
